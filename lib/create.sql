@@ -12,3 +12,5 @@ CREATE TABLE projects (
   name TEXT,
   age INTEGER
   );
+  
+   
